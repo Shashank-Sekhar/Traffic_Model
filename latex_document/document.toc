@@ -1,0 +1,23 @@
+\contentsline {chapter}{\textbf {Abstract}}{1}
+\contentsline {chapter}{\textbf {Introduction}}{1}
+\contentsline {section}{\text {Traffic model}}{1}
+\contentsline {section}{\text {Traffic congestion}}{2}
+\contentsline {section}{\text {Traffic flow}}{2}
+\contentsline {chapter}{\textbf {Traffic simulation and model}}{2}
+\contentsline {section}{\text {Simulation}}{2}
+\contentsline {subsection}{\text {Drawbacks of the simulation}}{3}
+\contentsline {section}{\text {Model}}{3}
+\contentsline {subsection}{\text {Speed}}{3}
+\contentsline {subsection}{\text {Time mean speed}}{3}
+\contentsline {subsection}{\text {Space mean speed}}{4}
+\contentsline {subsection}{\text {Density}}{4}
+\contentsline {subsection}{\text {Flow}}{5}
+\contentsline {section}{\text {Kinematic wave traffic flow model}}{5}
+\contentsline {subsection}{\text {Conservation laws}}{5}
+\contentsline {subsection}{\text {Fundamental diagram}}{5}
+\contentsline {subsection}{\text {Initial conditions}}{6}
+\contentsline {section}{\text {Riemann's problem}}{6}
+\contentsline {chapter}{\textbf {Examples}}{6}
+\contentsline {section}{\text {Google map density}}{6}
+\contentsline {chapter}{\textbf {Learning outcomes}}{6}
+\contentsline {chapter}{\textbf {Bibliography}}{7}
